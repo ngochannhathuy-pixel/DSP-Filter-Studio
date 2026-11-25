@@ -1,0 +1,10 @@
+test_audio (test_dsp.TestDSP.test_audio) ... ok
+test_ch6 (test_dsp.TestDSP.test_ch6) ... ok
+test_design (test_dsp.TestDSP.test_design) ... ok
+test_notch (test_dsp.TestDSP.test_notch) ... ok
+test_realizations (test_dsp.TestDSP.test_realizations) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.078s
+
+OK
